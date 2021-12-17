@@ -13,12 +13,13 @@ Note that we are going to limit our class by 15.
   Step 1: Installing Detectron 2
     If you have any doubts how toinstall detectron2 in windows please follow this tutorial TheCodingBug https://www.youtube.com/watch?v=Pb3opEFP94U&t=151s 
     
-    Step 2: Prepare and Register the Dataset
+   Step2 : Prepare and Register the Dataset
+   
+   Step3 : Visualize the Training set
+   
+   Step4 : Training the Model
+   
+   Step5 : Inference using the Trained Model
     
-    Step 3: Visualize the Training Set
-    
-    Step 4: Training the Model
-    
-    Step 5: Inference using the Trained Model
-
+   
 
