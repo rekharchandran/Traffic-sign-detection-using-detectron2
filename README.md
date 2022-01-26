@@ -1,6 +1,6 @@
 # Object-detection-using-Detectron2
 
-![](C:\Users\Rekha\Desktop\14.png)
+![image](C:\Users\Rekha\Desktop\14.png)
 
 
 An object detection model using traffic signs custom dataset from scratch
