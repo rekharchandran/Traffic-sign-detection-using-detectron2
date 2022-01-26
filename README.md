@@ -1,5 +1,8 @@
 # Object-detection-using-Detectron2
 
+![This is an image](C:\Users\Rekha\Desktop\14.png)
+
+
 An object detection model using traffic signs custom dataset from scratch
  
  Detectron 2 comes to the rescue if we want to train an object detection model in a snap with a custom dataset. All the models present in the model zoo of the Detectron 2 library are pre-trained on COCO Dataset. We just need to fine-tune our custom dataset on the pre-trained model.
